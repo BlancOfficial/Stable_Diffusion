@@ -1,7 +1,9 @@
 # Unofficial Stable-Diffusion
 by StabilityAI
 
-Leaked stable diffusion weights colab, working on top off CompVis' GitHub Project,  bringing AIs to the People
+Leaked stable diffusion weights colab, working on top off CompVis' GitHub Project.
+
+`By The People, For The People`
 
 [Current colab version](https://colab.research.google.com/drive/1QyxxftYREN3cJf8kuz--zFrnBxGg0w_S?usp=sharing)
 
