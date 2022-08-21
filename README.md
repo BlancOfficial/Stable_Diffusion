@@ -1,7 +1,7 @@
 # Unofficial Stable-Diffusion
 by StabilityAI
 
-Leaked stable diffusion weights collab, working on top off CompVis' GitHub Project,  bringing AIs to the People
+[Leaked stable diffusion weights collab, working on top off CompVis' GitHub Project,  bringing AIs to the People](https://colab.research.google.com/drive/1QyxxftYREN3cJf8kuz--zFrnBxGg0w_S?usp=sharing&authuser=2)
 
 [stability ai blogpost](https://stability-ai.webpkgcache.com/doc/-/s/stability.ai/beta-signup-form)
 
