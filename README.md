@@ -62,7 +62,8 @@ Alternatively you could click on the cell click, then click the Runtime Tab on t
 ![Parameters](https://cdn.discordapp.com/attachments/806288700736405506/1010840675769663540/Screenshot_2022-08-21_at_10.16.56.png)
 
 NOTE: AFTER CHANGING PARAMETERS, RERUN CELLS 3.1 TO 3.7
-
+|Parameter            |Description                                                                                  |
+| ---                 |                                                                                             |
 self.ddim_steps        number of ddim sampling steps
 
 self.seed SEED         the seed (for reproducible sampling)
