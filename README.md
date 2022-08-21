@@ -12,4 +12,4 @@ Now With
 (BlancDeOfficial) Added Google Drive integration, Random Seed, Friendlier User interface and made the 7GB download a one time affair,
 (lukasaey) Added Random/ Custom Seed options
 
-[My image](https://cdn.discordapp.com/attachments/806288700736405506/1010835283211714730/unknown.png)
+![My image](https://cdn.discordapp.com/attachments/806288700736405506/1010835283211714730/unknown.png)
