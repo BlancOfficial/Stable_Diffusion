@@ -74,5 +74,6 @@ NOTE: AFTER CHANGING PARAMETERS, RERUN CELLS 3.1 TO 3.7
 |self.n_samples|how many samples to produce for each given prompt. A.k.a. batch size|
 |self.n_iter|sample this often|
 |self.scale|unconditional guidance scale: eps = eps(x, empty) + scale * (eps(x, cond) - eps(x, empty))|
-|self.strength|The Weight of the Image prompt. NOTE: MAXES OUT AT 0.99 AND MUST ATLEAST BE 0.01|
+|self.strength|The Weight of the Image prompt|
 
+NOTE: self.strength MAXES OUT AT 0.99 AND MUST ATLEAST BE 0.01
