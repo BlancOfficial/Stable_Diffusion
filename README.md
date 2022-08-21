@@ -89,4 +89,8 @@ Prompt constuction is an art form and beginners may struggle with it, there is a
 
 Inside url goes init images, if any, that you want to help guide your image generation
 
-Inside of Run_Repitions goes how many times you want the AI to repeat this generation process, self.n_samples  * Run_ Repitions is theoretically how many images you will be able to generate, however colab will disconnect you from their GPU runtime if your colab runs for too long, because of a little word that starts with m- and ends with -iners. However, there are no real repurcussions from getting kicked from colab, generated images are all saved into your drives. So just bade touché and try again
+Inside of Run_Repitions goes how many times you want the AI to repeat this generation process.
+
+self.n_samples  * Run_ Repitions is theoretically how many images you will be able to generate, however colab will disconnect you from their GPU runtime if your colab runs for too long, because of a little word that starts with m- and ends with -iners. 
+
+However, there are no real repurcussions from getting kicked from colab, generated images are all saved into your drives. So just bade touché and try again
