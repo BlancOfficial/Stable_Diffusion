@@ -18,6 +18,8 @@ Now With
 
 ![Anarchy Reference](https://cdn.discordapp.com/attachments/806288700736405506/1010835283211714730/unknown.png)
 
+Thx Anarchy.ai devs
+
 ---
 
 NOTE: IF AN ERROR MESSAGE APPEARS SAYING `Cannot connect to GPU backend`, THERE ARE NO GPUs AVAILABLE; TRY AGAIN LATER
