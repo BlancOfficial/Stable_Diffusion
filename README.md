@@ -84,13 +84,20 @@ NOTE: AFTER CHANGING PARAMETERS, RERUN CELLS 3.1 TO 3.7
 
 You've finally arrived at the raison d'être of this colab. 
 
-Inside prompt goes your text prompt  (Use [This Guide](https://beta.dreamstudio.ai/prompt-guide) to help you construct prompts). 
+Inside `prompt` goes your text prompt  (Use [This Guide](https://beta.dreamstudio.ai/prompt-guide) to help you construct prompts). 
 Prompt constuction is an art form and beginners may struggle with it, there is a learning curve but it is worth it, trust me.
 
-Inside url goes init images, if any, that you want to help guide your image generation
+Inside `url` goes init images, if any, that you want to help guide your image generation
 
-Inside of Run_Repitions goes how many times you want the AI to repeat this generation process.
+Inside of `Run_Repitions` goes how many times you want the AI to repeat this generation process.
 
-self.n_samples  * Run_ Repitions is theoretically how many images you will be able to generate, however colab will disconnect you from their GPU runtime if your colab runs for too long, because of a little word that starts with m- and ends with -iners. 
+`self.n_samples`  * `Run_ Repitions` is theoretically how many images you will be able to generate, however colab will disconnect you from their GPU runtime if your colab runs for too long, because of a little word that starts with m- and ends with -iners. 
 
 However, there are no real repurcussions from getting kicked from a GPU runtime in colab, generated images are all saved into your drives. So just bade touché and try again
+
+---
+
+![CUDA Ran Out](https://cdn.discordapp.com/attachments/971921703313768578/1010866322411884574/unknown.png)
+![Solution](https://cdn.discordapp.com/attachments/971921703313768578/1010866433426731029/unknown.png)
+
+If you're stuck at the VRAM cap and unable to generate anything, replace `#model = None` with `model = None`, then rerun from `3.3 Loading Model`
