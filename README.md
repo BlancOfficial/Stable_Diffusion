@@ -26,6 +26,8 @@ For information on the technical side of this AI's Image Generation Capabilities
 
 # Step By Step Guide for Dummies w/ images
 
+NOTE: READ IT IN IT'S ENTIRETY BEFORE STARTING
+
 ![Run All](https://cdn.discordapp.com/attachments/806288700736405506/1010840674272280576/Screenshot_2022-08-21_at_10.05.52.png)
 
 By Clicking The Run All Button, you also start the process in which google colab connects to a GPU runtime.
