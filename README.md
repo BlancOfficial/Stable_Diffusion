@@ -64,7 +64,7 @@ Alternatively you could click on the cell click, then click the Runtime Tab on t
 NOTE: AFTER CHANGING PARAMETERS, RERUN CELLS 3.1 TO 3.7
 |Parameter            |Description                                                                                  |
 | ------------------- | ------------------------------------------------------------------------------------------- |
-|self.ddim_steps      | number of ddim sampling steps                                                               |
+|self.ddim_steps      | number of ddim sampling steps|
 
 self.seed SEED         the seed (for reproducible sampling)
 
