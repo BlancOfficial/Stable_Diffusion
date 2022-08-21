@@ -64,15 +64,15 @@ Alternatively you could click on the cell click, then click the Runtime Tab on t
 NOTE: AFTER CHANGING PARAMETERS, RERUN CELLS 3.1 TO 3.7
 |Parameter            |Description|
 | ------------------- | --------  |
-|self.ddim_steps      | number of ddim sampling steps|
-|self.seed SEED         |the seed (for reproducible sampling)|
-|self.n_rows            |rows in the grid (default: n_samples)|
-|self.C                | latent channels|
-|self.H                 |image height, in pixel space|
-|self.W          |       image width, in pixel space|
-|self.F           |      downsampling factor|
-|self.n_samples    |     how many samples to produce for each given prompt. A.k.a. batch size|
-|self.n_iter        |    sample this often|
-|self.scale          |   unconditional guidance scale: eps = eps(x, empty) + scale * (eps(x, cond) - eps(x, empty))|
-|self.strength        |  The Weight of the Image prompt. NOTE: MAXES OUT AT 0.99 AND MUST ATLEAST BE 0.01|
+|self.ddim_steps| number of ddim sampling steps|
+|self.seed SEED|the seed (for reproducible sampling)|
+|self.n_rows|rows in the grid (default: n_samples)|
+|self.C|latent channels|
+|self.H|image height, in pixel space|
+|self.W|image width, in pixel space|
+|self.F|downsampling factor|
+|self.n_samples|how many samples to produce for each given prompt. A.k.a. batch size|
+|self.n_iter|sample this often|
+|self.scale|unconditional guidance scale: eps = eps(x, empty) + scale * (eps(x, cond) - eps(x, empty))|
+|self.strength|The Weight of the Image prompt. NOTE: MAXES OUT AT 0.99 AND MUST ATLEAST BE 0.01|
 
