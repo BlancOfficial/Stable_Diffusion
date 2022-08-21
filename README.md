@@ -77,3 +77,16 @@ NOTE: AFTER CHANGING PARAMETERS, RERUN CELLS 3.1 TO 3.7
 |self.strength|The Weight of the Image prompt|
 
 NOTE: self.strength MAXES OUT AT 0.99 AND MUST ATLEAST BE 0.01
+
+---
+
+![Final Run](https://cdn.discordapp.com/attachments/806288700736405506/1010840676218437682/Screenshot_2022-08-21_at_10.18.00.png)
+
+You've finally arrived at the raison d'être of this colab. 
+
+Inside prompt goes your text prompt  (Use [This Guide](https://beta.dreamstudio.ai/prompt-guide) to help you construct prompts). 
+Prompt constuction is an art form and beginners may struggle with it, there is a learning curve but it is worth it, trust me.
+
+Inside url goes init images, if any, that you want to help guide your image generation
+
+Inside of Run_Repitions goes how many times you want the AI to repeat this generation process, self.n_samples  * Run_ Repitions is theoretically how many images you will be able to generate, however colab will disconnect you from their GPU runtime if your colab runs for too long, because of a little word that starts with m- and ends with -iners. However, there are no real repurcussions from getting kicked from colab, generated images are all saved into your drives. So just bade touché and try again
