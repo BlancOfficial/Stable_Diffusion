@@ -13,7 +13,7 @@ Leaked stable diffusion weights colab, working on top off CompVis' GitHub Projec
 
 Now With
 (TechnoMancer) Added Image Prompt Utility,
-(BlancDeOfficial) Added Google Drive integration, Random Seed, Friendlier User interface and made the 7GB download a one time affair,
+(BlancDeOfficial) Added Google Drive integration, Random Seed, Friendlier User interface and made the 7GB Model download a one time affair,
 (lukasaey) Added Random/ Custom Seed options
 
 ![Anarchy Reference](https://cdn.discordapp.com/attachments/806288700736405506/1010835283211714730/unknown.png)
