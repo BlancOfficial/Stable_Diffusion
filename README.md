@@ -111,3 +111,5 @@ However, there are no real repurcussions from getting kicked from a GPU runtime 
 If you're stuck at the VRAM cap and unable to generate anything, replace `#model = None` with `model = None`, then rerun from `3.3 Loading Model`
 
 If this error perists, I'd recommend you  `Disconnect and Delete The Runtime` from the `Runtime` tab in the top left, then restarting the process from step one of this guide
+
+![Disconnect and Delete Runtime](https://cdn.discordapp.com/attachments/806288700736405506/1011379106266497125/Screenshot_2022-08-22_at_21.59.20.png)
