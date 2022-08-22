@@ -99,7 +99,7 @@ Inside `url` goes init images, if any, that you want to help guide your image ge
 
 Inside of `Run_Repitions` goes how many times you want the AI to repeat this generation process.
 
-`self.n_samples`  * `Run_ Repitions` is theoretically how many images you will be able to generate, however colab will disconnect you from their GPU runtime if your colab runs for too long, because of a little word that starts with m- and ends with -iners. 
+`self.n_samples`  * `Run_ Repitions` is theoretically how many images you will be able to generate, however colab will disconnect you from their GPU runtime if your colab runs for too long, because of a little phrase that starts with c- and ends with -rypto miners. 
 
 However, there are no real repurcussions from getting kicked from a GPU runtime in colab, generated images are all saved into your drives. So just bade touché and try again
 
