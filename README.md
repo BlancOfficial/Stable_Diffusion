@@ -84,6 +84,8 @@ NOTE: AFTER CHANGING PARAMETERS, RERUN CELLS `3.1` TO `3.7`
 |self.scale|unconditional guidance scale: eps = eps(x, empty) + scale * (eps(x, cond) - eps(x, empty))|
 |self.strength|The Weight of the Image prompt|
 
+
+It is recommended that you do not make ur image dimensions any bigger than 256*256, once your image has generated you can upscale (Make Bigger) using using [this website](http://waifu2x.udp.jp/)
 ---
 
 ![Final Run](https://cdn.discordapp.com/attachments/806288700736405506/1010840676218437682/Screenshot_2022-08-21_at_10.18.00.png)
