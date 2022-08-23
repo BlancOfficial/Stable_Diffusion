@@ -10,7 +10,7 @@ Leaked stable diffusion weights colab, working on top off CompVis' GitHub Projec
 
 [Current colab version](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
 
-[Official colab release](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17))
+[Official colab release](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
 
 [stability ai blogpost](https://stability-ai.webpkgcache.com/doc/-/s/stability.ai/beta-signup-form)
 
