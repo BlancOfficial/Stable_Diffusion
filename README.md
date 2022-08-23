@@ -1,7 +1,8 @@
 # Unofficial Stable-Diffusion
 by StabilityAI
 
---- [The Official version has been released on colab](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
+# [The Official version has been released on colab](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
+And so this version is depreciated
 
 Leaked stable diffusion weights colab, working on top off CompVis' GitHub Project.
 
