@@ -16,9 +16,11 @@ Leaked stable diffusion weights colab, working on top off CompVis' GitHub Projec
 
 [offical github](https://github.com/CompVis/stable-diffusion)
 
+---
 
+---
 
-
+---
 
 Deappreciated Read.me
 
