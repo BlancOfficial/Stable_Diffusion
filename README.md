@@ -1,7 +1,7 @@
 # Unofficial Stable-Diffusion
 by StabilityAI
 
-# [The Official version has been released on colab](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
+# [An optimized version of the official release is now available on colab](https://colab.research.google.com/drive/1jUwJ0owjigpG-9m6AI_wEStwimisUE17)
 And so this version is depreciated
 
 Leaked stable diffusion weights colab, working on top off CompVis' GitHub Project.
@@ -15,6 +15,13 @@ Leaked stable diffusion weights colab, working on top off CompVis' GitHub Projec
 [stability ai blogpost](https://stability-ai.webpkgcache.com/doc/-/s/stability.ai/beta-signup-form)
 
 [offical github](https://github.com/CompVis/stable-diffusion)
+
+
+
+
+
+Deappreciated Read.me
+
 
 Now With
 (TechnoMancer) Added Image Prompt Utility,
